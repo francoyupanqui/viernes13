@@ -1,12 +1,35 @@
-# React + Vite
+# 💌 Viernes 13 - Carta Interactiva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una carta digital hecha con amor, React y un poco de magia de Vite.  
+Diseñada para sorprender a esa persona especial que ama **One Piece**, los **perritos**, y **Minecraft**.  
+¡Sí, tú! Esta es una carta hecha con 💻 y ❤️.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 ¿Qué tiene esta carta?
 
-## Expanding the ESLint configuration
+- ✨ Animaciones suaves con CSS y Tailwind
+- 💖 Una solapa que se abre como las cartas reales
+- 🎵 Música personalizada (🎧 Charlie USG - Viernes 13)
+- 📜 Un mensaje especial escrito desde el corazón
+- 💡 Temática inspirada en tus gustos favoritos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧪 Tecnologías usadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GitHub Pages](https://pages.github.com/) (opcional, para publicación)
+- HTML, CSS, amor y muchos nervios 🙈
+
+---
+
+## 🚀 ¿Cómo correr este proyecto?
+
+1. Clona este repo:
+
+```bash
+git clone https://github.com/tu-usuario/viernes13.git
+cd viernes13
